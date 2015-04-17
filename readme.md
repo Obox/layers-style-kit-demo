@@ -3,7 +3,7 @@ This is a demo style kit for the Layers framework and is intended as a teaching 
 License: CSS, json and XML data is covered by the GPL 2.0 License.
 Screen graphics by dribbble/kunejo
 
-Demo: (http://www.vailjoy.com/style-kit-demo/
+Demo: http://www.vailjoy.com/style-kit-demo/
 
 For detailed Documentation, go to 
 http://docs.layerswp.com/doc/how-to-import-a-style-kit/
