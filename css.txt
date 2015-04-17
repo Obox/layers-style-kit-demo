@@ -1,0 +1,65 @@
+.header-site.header-sticky{
+background: transparent; 
+opacity: 1;
+}
+.header-sticky.is_stuck.is_stuck_show{
+background: #f15e53;
+}
+.nav-horizontal li a{color: #FFF;}
+.nav-horizontal li a:hover{color: #000;}
+.swiper-slide .container{
+top: 55%;
+}
+.title-container{
+background-color: #f15e53;
+}
+.title-container .heading{color: #FFF;}
+.bread-crumbs li a{color: #FFF;}
+.image-right .copy-container{
+width: 45%;
+}
+
+.image-right .image-container{
+max-height: 600px; 
+text-align: right;
+}
+
+.section-title.large .heading{
+text-transform: uppercase; 
+padding-bottom: 20px; 
+border-bottom: 1px solid #eee; margin-bottom: 40px;
+ }
+.heading{
+font-weight: 700;
+}
+
+.button.btn-large{
+background: url(https://developer.android.com/images/brand/en_generic_rgb_wo_45.png) no-repeat; 
+text-indent: -9999px; 
+display: block; 
+height: 45px; 
+width: 130px; 
+transition: ease all .3s; 
+border-radius: 8px;
+}
+
+.button:hover{
+opacity: .5;
+}
+
+.section-title.medium .button{
+background: url(https://devimages.apple.com.edgekey.net/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg) no-repeat; 
+text-indent: -9999px; 
+display: block; 
+height: 40px; 
+width: 135px; 
+transition: ease all .3s; 
+border-radius: 8px;
+}
+
+#footer a, #footer.well a {
+text-transform: uppercase; 
+font-size: 1.2rem;
+}
+
+/* Your additions go below */
